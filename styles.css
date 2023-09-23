@@ -10,21 +10,21 @@
 	justify-content: space-evenly;
 	align-items: center;
 }
-.block-red{
+.red{
 	width:100px;
 	height:100px;
 	border: none;
 	border-radius:50px;
 	background-color: red;
 }
-.block-green{
+.green{
 	width:100px;
 	height:100px;
 	border: none;
 	border-radius:50px;
 	background-color: green;
 }
-.block-yellow{
+.yellow{
 	width:100px;
 	height:100px;
 	border: none;
